@@ -1,0 +1,36 @@
+[
+   {
+      "course":"OS",
+      "students":[
+         {
+            "id":0,
+            "name":"Jeff"
+         },
+         {
+            "id":1,
+            "name":"Joe"
+         },
+         {
+            "id":2,
+            "name":"John"
+         }
+      ]
+   },
+   {
+      "course":"PL",
+      "students":[
+         {
+            "id":3,
+            "name":"Billy"
+         },
+         {
+            "id":4,
+            "name":"Horace"
+         },
+         {
+            "id":5,
+            "name":"Greg"
+         }
+      ]
+   }
+]
